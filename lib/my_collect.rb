@@ -1,4 +1,4 @@
-def my_collect(aray)
+def my_collect(array)
   i = 0
   result = []
 
@@ -7,4 +7,4 @@ def my_collect(aray)
     i += 1
   end
   result
-end 
+end
